@@ -20,7 +20,9 @@ def home3():
 
 ####################################################
 #                Routes for ...                    #
-#                                                  #
+@app.route("/jordan")
+def jordan():
+    return render_template("/pages/ee.html")
 #                                                  #
 #                                                  #
 #                                                  #

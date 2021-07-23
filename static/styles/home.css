@@ -5,7 +5,8 @@ html {
   background-color: purple;
   border-left: 3px solid white;
   border-right: 3px solid white;
-  height: 500px;
+  height: auto;
+  position: relative;
 }
 .titletag {
   background-color: black;

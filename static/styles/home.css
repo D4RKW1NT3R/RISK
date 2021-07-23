@@ -6,6 +6,5 @@ html {
 }
 .titletag {
   background-color: black;
-  padding-left: 50%;
-  padding-right: 50%;
+  margin: 20px;
 }

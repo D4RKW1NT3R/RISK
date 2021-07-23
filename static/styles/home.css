@@ -9,4 +9,6 @@ html {
 .titletag {
   background-color: black;
   margin: 50px;
+  border-left: 3px solid white;
+  border-right: 3px solid white;
 }

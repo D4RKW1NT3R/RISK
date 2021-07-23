@@ -3,6 +3,8 @@ h1 {
 }
 html {
   background-color: purple;
+  border-left: 3px solid white;
+  border-right: 3px solid white;
 }
 .titletag {
   background-color: black;

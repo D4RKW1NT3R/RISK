@@ -11,8 +11,5 @@ html {
   margin: 50px;
   border-left: 3px solid white;
   border-right: 3px solid white;
-}
-body {
-  border-left: 3px solid white;
-  border-right: 3px solid white;
+  height: 100%;
 }

@@ -1,3 +1,10 @@
+############ main.py ##################
+# Author - c00lhawk607                #
+# Company - N/A                       #
+# Email - jordandixon2004@outlook.com #
+#######################################
+
+
 from flask import *
 app = Flask(__name__)
 

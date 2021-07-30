@@ -33,5 +33,5 @@
 /* ITEMS */
 .ticker-item{
   display: inline-block; /* Lay items in a horizontal line */
-  padding: 0 2rem;
+  padding: 0.2rem;
 }
